@@ -11,9 +11,9 @@ void setup()
 
 void loop()
 {
-  digitalWrite(8, HIGH); //Ligando LED da porta 9
+  digitalWrite(8, HIGH); //Ligando LED da porta 8
   delay(200); //Tempo de espera
-  digitalWrite(8, LOW); //Desligando LED da porta 9
+  digitalWrite(8, LOW); //Desligando LED da porta 8
   digitalWrite(5, HIGH); //Ligando LED da porta 5
   delay(200); //Tempo de espera
   digitalWrite(5, LOW); //Desligando LED da porta 5
